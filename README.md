@@ -34,7 +34,7 @@ Fraud Rate by Transaction Amount
 
 ## Documentation
 - [View Notebook](Risk_Analyst_Case_Alex_Vechi.ipynb)
-- [View PDF Summary](Risk-Analyst_Case_Alex_Vechi.pdf)
+- [View PDF Summary](Risk_Analyst_Case_Alex_Vechi.pdf)
 
 ## Contact
 - [LinkedIn](https://linkedin.com/in/alexandre-vechi-maciel)
